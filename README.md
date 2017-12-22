@@ -1,1 +1,1 @@
-# pratice of symfony 
+# pratice of symfony,codong standards
